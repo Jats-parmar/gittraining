@@ -1,2 +1,2 @@
 # gittraining
-this is a git training 
+## this is a git training 
